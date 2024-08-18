@@ -1,4 +1,4 @@
-console.log('lesss gooo');
+// console.log('letss gooo');
 let songs;
 let currentfolder;
 
